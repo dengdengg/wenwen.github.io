@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+yyds
 
 You can use the [editor on GitHub](https://github.com/dengdengg/wenwen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
